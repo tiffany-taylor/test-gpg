@@ -10,4 +10,6 @@ testing modifying from phpstorm
 
 test from lemur
 
-asdfasdf
+asdfasd
+
+test gpg key from lemur
