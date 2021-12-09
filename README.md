@@ -21,3 +21,6 @@ test after reading php gpg guide
 testing ssh key known hosts
 
 testing gpg key again...
+
+another test with corrected commit email...
+
