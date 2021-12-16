@@ -1,5 +1,5 @@
 # Testing Markdown in Github
 
-> :information_source: **Note**
+> :information_source: **Note**  
 > Info box text  
-> Second line
+> Second line  
