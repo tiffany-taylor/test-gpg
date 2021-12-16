@@ -1,6 +1,6 @@
 # Testing Markdown in Github
 
-> # Heading
+> :information_source: **Note**
 > Info box text
-> will this work maybe
+> Second line
 
