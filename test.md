@@ -3,4 +3,3 @@
 > :information_source: **Note**
 > Info box text
 > Second line
-
