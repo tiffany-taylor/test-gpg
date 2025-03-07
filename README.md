@@ -25,3 +25,6 @@ testing gpg key again...
 another test with corrected commit email...
 
 testing adding github to known hosts again
+
+
+*tap tap* is this thing on? is this commit verified?
